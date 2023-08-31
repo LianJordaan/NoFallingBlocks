@@ -1,0 +1,3 @@
+name: No Falling Blocks
+version: '${project.version}'
+main: io.github.lianjordaan.nofallingblocks.NoFallingBlocks
