@@ -9,7 +9,7 @@ The No Falling Blocks Plugin is a custom Minecraft Spigot plugin that prevents a
 
 ## Installation
 
-1. Download the latest release of the No Falling Blocks Plugin from the [releases](https://github.com/LianJordaan/NoFallingBlocks-Plugin/releases) section.
+1. Download the latest release of the No Falling Blocks Plugin from the [releases](https://github.com/LianJordaan/NoFallingBlocks/releases) section.
 2. Place the downloaded JAR file in the "plugins" folder of your Spigot server.
 3. Start or restart your Spigot server.
 
@@ -27,7 +27,7 @@ If you would like to contribute to the development of this plugin, please fork t
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/yourusername/NoFallingBlocks-Plugin/issues) on the GitHub repository.
+If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/LianJordaan/NoFallingBlocks/issues) on the GitHub repository.
 
 ## License
 
